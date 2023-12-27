@@ -11,7 +11,5 @@ public class Product {
 	private Integer id;
 	private String name;
 	private Double price;
-int j=20;
-int k=30;
 
 }
